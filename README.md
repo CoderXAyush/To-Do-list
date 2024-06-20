@@ -22,7 +22,7 @@ To get started with the To-Do List Website, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd src
+   cd public
    ```
 
 3. Open `index.html` in your preferred web browser to start using the app.
